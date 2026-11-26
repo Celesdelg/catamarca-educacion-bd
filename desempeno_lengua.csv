@@ -1,0 +1,113 @@
+id_departamento,id_segmento,nivel,estudiantes
+1,1,Por debajo del nivel básico,13.5223
+1,1,Básico,19.9761
+1,1,Satisfactorio,12.532
+1,1,Avanzado,2.1171
+2,1,Por debajo del nivel básico,10.5629
+2,1,Básico,9.7206
+2,1,Satisfactorio,15.5711
+2,1,Avanzado,1.0244
+3,1,Por debajo del nivel básico,27.0098
+3,1,Básico,20.717
+3,1,Satisfactorio,15.4028
+3,1,Avanzado,2.433
+3,2,Por debajo del nivel básico,33.1975
+3,2,Básico,45.1113
+3,2,Satisfactorio,73.7542
+3,2,Avanzado,10.5108
+4,1,Por debajo del nivel básico,2.122
+4,1,Básico,2.1952
+4,1,Satisfactorio,10.9759
+4,1,Avanzado,1.0976
+5,1,Por debajo del nivel básico,85.4692
+5,1,Básico,40.6491
+5,1,Satisfactorio,60.1351
+5,1,Avanzado,2.6507
+5,2,Por debajo del nivel básico,76.5522
+5,2,Básico,73.1115
+5,2,Satisfactorio,74.8593
+5,2,Avanzado,7.7253
+6,1,Por debajo del nivel básico,36.2082
+6,1,Básico,34.1006
+6,1,Satisfactorio,39.2443
+6,1,Avanzado,8.2546
+6,2,Por debajo del nivel básico,26.1103
+6,2,Básico,22.7632
+6,2,Satisfactorio,17.4038
+6,2,Avanzado,2.3875
+7,2,Por debajo del nivel básico,389.4849
+7,2,Básico,356.2618
+7,2,Satisfactorio,529.6093
+7,2,Avanzado,112.6097
+7,4,Por debajo del nivel básico,142.4201
+7,4,Básico,161.3513
+7,4,Satisfactorio,376.0524
+7,4,Avanzado,102.7558
+8,1,Por debajo del nivel básico,57.2291
+8,1,Básico,17.4958
+8,1,Satisfactorio,10.0455
+8,1,Avanzado,1.2805
+17,4,Por debajo del nivel básico,87.65
+17,4,Básico,122.0994
+17,4,Satisfactorio,234.2456
+17,4,Avanzado,63.4255
+9,1,Por debajo del nivel básico,5.3921
+9,1,Básico,7.7856
+9,1,Satisfactorio,29.4752
+9,1,Avanzado,4.4702
+9,2,Por debajo del nivel básico,43.6914
+9,2,Básico,21.471
+9,2,Satisfactorio,23.6447
+9,2,Avanzado,2.0727
+10,1,Por debajo del nivel básico,67.4723
+10,1,Básico,38.1459
+10,1,Satisfactorio,29.0256
+10,1,Avanzado,1.6034
+10,2,Por debajo del nivel básico,61.0926
+10,2,Básico,41.2774
+10,2,Satisfactorio,36.1336
+10,2,Avanzado,1.4688
+11,1,Por debajo del nivel básico,28.1186
+11,1,Básico,16.6607
+11,1,Satisfactorio,18.7344
+11,1,Avanzado,0.0
+12,1,Por debajo del nivel básico,24.9665
+12,1,Básico,18.0297
+12,1,Satisfactorio,34.8594
+12,1,Avanzado,2.0488
+12,2,Por debajo del nivel básico,29.8228
+12,2,Básico,14.9171
+12,2,Satisfactorio,27.4016
+12,2,Avanzado,5.6111
+13,1,Por debajo del nivel básico,19.8054
+13,1,Básico,12.6345
+13,1,Satisfactorio,9.3905
+13,1,Avanzado,1.1952
+13,2,Por debajo del nivel básico,51.5763
+13,2,Básico,47.1956
+13,2,Satisfactorio,146.5569
+13,2,Avanzado,21.2617
+14,1,Por debajo del nivel básico,21.3918
+14,1,Básico,18.5194
+14,1,Satisfactorio,33.5322
+14,1,Avanzado,7.4854
+14,2,Por debajo del nivel básico,39.9854
+14,2,Básico,22.9368
+14,2,Satisfactorio,16.2665
+14,2,Avanzado,10.6814
+15,1,Por debajo del nivel básico,40.0826
+15,1,Básico,24.4649
+15,1,Satisfactorio,30.3475
+15,1,Avanzado,2.4244
+15,2,Por debajo del nivel básico,85.7892
+15,2,Básico,70.3358
+15,2,Satisfactorio,82.8508
+15,2,Avanzado,5.6126
+16,1,Por debajo del nivel básico,2.0488
+16,1,Básico,1.0244
+16,1,Satisfactorio,5.1221
+16,1,Avanzado,0.0
+16,2,Por debajo del nivel básico,96.4385
+16,2,Básico,95.9052
+16,2,Satisfactorio,95.2118
+16,2,Avanzado,11.3381
